@@ -1,0 +1,128 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "61",
+          "name": "Cousin Nicky",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Cowboy Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Cowboy Rick",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        },
+        {
+          "id": "64",
+          "name": "Crab Spider",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/64.jpeg"
+        },
+        {
+          "id": "65",
+          "name": "Creepy Little Girl",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/65.jpeg"
+        },
+        {
+          "id": "66",
+          "name": "Crocubot",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/66.jpeg"
+        },
+        {
+          "id": "67",
+          "name": "Cronenberg Rick",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/67.jpeg"
+        },
+        {
+          "id": "68",
+          "name": "Cronenberg Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/68.jpeg"
+        },
+        {
+          "id": "69",
+          "name": "Cult Leader Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/69.jpeg"
+        },
+        {
+          "id": "70",
+          "name": "Cyclops Morty",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/70.jpeg"
+        },
+        {
+          "id": "71",
+          "name": "Cyclops Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/71.jpeg"
+        },
+        {
+          "id": "72",
+          "name": "Cynthia",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/72.jpeg"
+        },
+        {
+          "id": "73",
+          "name": "Dale",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/73.jpeg"
+        },
+        {
+          "id": "74",
+          "name": "Dan Harmon",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/74.jpeg"
+        },
+        {
+          "id": "75",
+          "name": "Davin",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/75.jpeg"
+        },
+        {
+          "id": "76",
+          "name": "Diablo Verde",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/76.jpeg"
+        },
+        {
+          "id": "77",
+          "name": "Diane Sanchez",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/77.jpeg"
+        },
+        {
+          "id": "78",
+          "name": "Dipper and Mabel Mortys",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/78.jpeg"
+        },
+        {
+          "id": "79",
+          "name": "Disability Bot",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/79.jpeg"
+        },
+        {
+          "id": "80",
+          "name": "Tuberculosis",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/80.jpeg"
+        }
+      ]
+    }
+  }
+}
