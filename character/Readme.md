@@ -22,7 +22,6 @@ When prompted, select the following options:
 ✅ Would you like to use App Router? No (we're using Pages Router)
 ❌ Would you like to customize the default import alias? No
 
-
 Navigate to the project directory
 
 bashcd alx-rick-and-morty-app
