@@ -113,3 +113,4 @@ Implement pagination controls
 This is a learning project for ALX GraphQL curriculum.
 📄 License
 This project is part of the ALX Software Engineering program.
+<!-- VGHCG -->
