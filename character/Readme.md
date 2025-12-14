@@ -23,7 +23,7 @@ When prompted, select the following options:
 ❌ Would you like to customize the default import alias? No
 
 Navigate to the project directory
-
+<!-- gg -->
 bashcd alx-rick-and-morty-app
 
 Install Apollo Client and GraphQL dependencies
